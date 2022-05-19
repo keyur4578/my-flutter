@@ -13,11 +13,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text("Home"),
       ),
-<<<<<<< HEAD
       body: Text("this is Home Page"),
-=======
-      body: Text("This is Home Page"),
->>>>>>> origin/fluttertwo
     );
   }
 }
